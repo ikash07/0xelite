@@ -40,13 +40,13 @@ Run the project locally on your machine.
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR_GIT_URL>
+git clone https://github.com/ikash07/0xelite.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd <YOUR_PROJECT_NAME>
+cd 0xelite
 ```
 
 **3. Install dependencies**
