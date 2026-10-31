@@ -1,73 +1,110 @@
-# Welcome to your Lovable project
+# ⚡ 0xElite — Personal Portfolio
 
-## Project info
+> 🛡️ Think like an attacker. Defend like an expert.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Welcome to **0xElite**, my personal portfolio showcasing my journey in technology, cybersecurity, and software development.
 
-## How can I edit this code?
+I'm passionate about exploring web security, penetration testing, vulnerability research, and building projects that turn ideas into reality.
 
-There are several ways of editing your application.
+## 🚀 About the Project
 
-**Use Lovable**
+0xElite is my digital space to showcase my skills, projects, technical interests, and continuous learning journey.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- 💻 **Development** — Building modern web experiences.
+- 🛡️ **Cybersecurity** — Exploring application security and penetration testing.
+- 🔍 **Security Research** — Learning vulnerability discovery and responsible disclosure.
+- ⚡ **Continuous Learning** — Improving through hands-on projects and experimentation.
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## 🛠️ Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- ⚛️ React
+- 🔷 TypeScript
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🧩 shadcn/ui
 
-## How can I deploy this project?
+## 💻 Getting Started
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Run the project locally on your machine.
 
-## Can I connect a custom domain to my Lovable project?
+### Prerequisites
 
-Yes, you can!
+- [Node.js](https://nodejs.org/)
+- npm
+- Git
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Installation
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**1. Clone the repository**
+
+```bash
+git clone <YOUR_GIT_URL>
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd <YOUR_PROJECT_NAME>
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal to explore the website.
+
+## ✏️ Development & Editing
+
+You can contribute to the project or customize it using your preferred workflow:
+
+- **Local IDE:** Edit the source code and push your changes using Git.
+- **GitHub:** Open files, edit them, and commit your changes.
+- **GitHub Codespaces:** Develop directly in a cloud-based environment.
+- **Lovable:** If this project is connected to Lovable, edit it through the [Lovable platform](https://lovable.dev/).
+
+## 🌐 Live Portfolio
+
+Explore the live website:
+
+**🔗 [0xElite — Personal Portfolio](https://0xelite.netlify.app/)**
+
+## 🚀 Deployment
+
+This project can be deployed using platforms that support modern frontend applications, such as:
+
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+
+Build the production version with:
+
+```bash
+npm run build
+```
+
+The generated production files will be available in the `dist` directory.
+
+## 🎯 Mission
+
+Keep learning. Keep building. Keep securing.
+
+Every vulnerability is a lesson, every project is progress, and every challenge is an opportunity to grow.
+
+---
+
+<div align="center">
+
+### ⚡ 0xElite
+
+**Explore. Build. Secure. Repeat.** 🖤
+
+</div>
