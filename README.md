@@ -100,11 +100,3 @@ Keep learning. Keep building. Keep securing.
 Every vulnerability is a lesson, every project is progress, and every challenge is an opportunity to grow.
 
 ---
-
-<div align="center">
-
-### ⚡ 0xElite
-
-**Explore. Build. Secure. Repeat.** 🖤
-
-</div>
